@@ -1,0 +1,15 @@
+.allure/
+.mvn/
+.settings/
+.vscode/
+.classpath
+.project
+HELP.md
+mvnw
+mvnw.cmd
+target/classes/
+target/generated-sources/
+target/generated-test-sources/
+target/maven-status/
+target/site/
+target/test-classes/
