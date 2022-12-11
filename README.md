@@ -1,3 +1,5 @@
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/lucarauj/rest-assured-automacao-testes-api-dio/blob/main/LICENSE)
+
 <h1 align="center"> Rest Assured - Automacao de Testes de Api </h1>
 
 ### Utilizando a documentação restful-booker:
